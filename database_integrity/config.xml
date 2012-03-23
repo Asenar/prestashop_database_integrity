@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>database_integrity</name>
+	<displayName><![CDATA[Database integrity check]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Check all database tables and create a report related to database integrity (all rows in product_lang correspond to one row in product for example )]]></description>
+	<author><![CDATA[]]></author>
+	<tab><![CDATA[dev]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
